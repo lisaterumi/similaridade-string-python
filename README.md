@@ -6,3 +6,5 @@ Neste repositório, vamos ver *notebooks* contendo exemplos de uso em Python par
 1. [Similaridade de cosseno](https://github.com/lisaterumi/similaridade-string-python/blob/main/similaridade%20de%20cosseno.ipynb)
 1. [Índice de Jaccard](https://github.com/lisaterumi/similaridade-string-python/blob/main/similaridade%20jaccard.ipynb)
 1. [Similaridade entre strings com BERT e NLU](https://github.com/lisaterumi/similaridade-string-python/blob/main/Similaridade_de_strings_com_BERT_e_NLU.ipynb)
+
+<a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe_link.png" alt="By me a coffe"/></a>
